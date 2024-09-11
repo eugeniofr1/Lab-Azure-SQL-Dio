@@ -5,7 +5,7 @@ Acessar o portal do Azure em portal.azure.com e faça o login com sua conta Micr
 ### 2º Criar um Novo Banco de Dados SQL
 Clique em "Criar um recurso": No menu lateral esquerdo, clique em "Criar um recurso". Isso abrirá a galeria de recursos disponíveis, ou podemos clicar diretamente em criar banco de dados.
  
- 
+ <img src="(https://github.com/eugeniofr1/Lab-Azure-SQL-Dio/blob/main/img-1.png?raw=true)" alt="Tela inicial Azure">
 Pesquise por "SQL Database": Na barra de pesquisa, digite "SQL Database" e selecione a opção correspondente.
  
  
